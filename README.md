@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/sajjadul-islam-shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjadul-islam-shuvo" height="30" width="40" /></a>
 <a href="https://fb.com/sajjadul.islam.shuvoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajjadul.islam.shuvoo" height="30" width="40" /></a>
 <a href="https://instagram.com/sajjadul.islam.shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajjadul.islam.shuvo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@x-knightfury/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@x-knightfury" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@x-knightfury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@x-knightfury" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/s_i_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="s_i_s" height="30" width="40" /></a>
 </p>
 
