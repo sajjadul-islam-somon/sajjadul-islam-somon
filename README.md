@@ -11,6 +11,7 @@
 <a href="https://instagram.com/sajjadul.islam.shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajjadul.islam.shuvo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@x-knightfury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@x-knightfury" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/s_i_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="s_i_s" height="30" width="40" /></a>
+<a href="https://www.beecrowd.com.br/judge/en/profile/656532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/beecrowd.svg" alt="656532" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
