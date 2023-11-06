@@ -100,7 +100,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sajjadul-islam-shuvo/sajjadul-islam-shuvo/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/{sajjadul-islam-shuvo}/{sajjadul-islam-shuvo}/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
