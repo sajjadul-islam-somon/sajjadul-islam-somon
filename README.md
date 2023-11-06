@@ -100,7 +100,7 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/{sajjadul-islam-shuvo}/{sajjadul-islam-shuvo}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/sajjadul-islam-shuvo/sajjadul-islam-shuvo/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
