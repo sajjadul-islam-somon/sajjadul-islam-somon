@@ -14,7 +14,7 @@
   <a href="https://www.facebook.com/sajjadul.islam.shuvoo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/sajjadul.islam.shuvo/" target="_blank">
+  <a href="https://www.instagram.com/sajjadul_islam_shuvo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/1075828886903984239" target="_blank">
