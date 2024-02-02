@@ -100,7 +100,7 @@
 
 <br clear="both">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/sajjadul-islam-shuvo/sajjadul-islam-somon/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/sajjadul-islam-shuvo/sajjadul-islam-somon/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/sajjadul-islam-somon/sajjadul-islam-somon/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)!
 
 ###
 
