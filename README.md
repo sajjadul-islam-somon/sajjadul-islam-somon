@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sajjadul-islam-shuvo/" target="_blank">
+  <a href="https://www.linkedin.com/in/sajjadul-islam-somon/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@x-knight-fury" target="_blank">
+  <a href="https://www.youtube.com/@sajjadul-islam-shuvo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://www.facebook.com/sajjadul.islam.shuvoo" target="_blank">
+  <a href="https://www.facebook.com/sajjadul.islam.somon" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="25" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/sajjadul_islam_shuvo/" target="_blank">
@@ -29,12 +29,12 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sajjadul-islam-shuvo/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/sajjadul-islam-somon/count.svg?"  />
 </div>
 
 ###
 
-<h1 align="center">I'm Sajjadul Islam Shuvo (Somon)</h1>
+<h1 align="center">I'm Sajjadul Islam Somon (Shuvo)</h1>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">I'm Sajjadul Islam Shuvo (Somon) from Daffodil International University, Dhaka.<br>.<br>- 📚 I'm currently learning Computer Science & Engineering<br>- ⚡ In my free time I like to discover new things</p>
+<p align="left">I'm Sajjadul Islam Somon (Shuvo) from Daffodil International University, Dhaka.<br>.<br>- 📚 I'm currently learning Computer Science & Engineering<br>- ⚡ In my free time I like to discover new things</p>
 
 ###
 
@@ -91,16 +91,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadul-islam-shuvo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sajjadul-islam-shuvo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=sajjadul-islam-shuvo&locale=en&mode=weekly&theme=omni&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadul-islam-somon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajjadul-islam-somon&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=sajjadul-islam-somon&locale=en&mode=weekly&theme=omni&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/sajjadul-islam-shuvo/sajjadul-islam-shuvo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/sajjadul-islam-shuvo/sajjadul-islam-shuvo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/sajjadul-islam-shuvo/sajjadul-islam-somon/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/sajjadul-islam-shuvo/sajjadul-islam-somon/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ###
 
